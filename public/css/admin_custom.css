@@ -1,0 +1,17 @@
+.table-responsive {
+	background-color: #fff;
+	padding : 20px 20px;
+	border-radius : 10px;
+}
+
+.fa {
+	font-size: 20px;
+}
+
+.fa-plus {
+	color : #8EF779;
+}
+
+.fa-minus {
+	color : #FA5353;
+}
